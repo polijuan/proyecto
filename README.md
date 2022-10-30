@@ -22,5 +22,15 @@ carrera especialista en power BI
             mas usadas, manipulación de los datos guardados y columnas condicionales.
             
 
-
+      Cuarto módulo: "Modelado de datos"
         
+            Descripción del concepto de modelado de datos, creación de columnas y medidas, y sus diferencias.
+            Añadir las relaciones a las tablas .
+            
+      Quinto módulo: "Creación de informes y paneles"
+
+            Descripción de diferentes tipos de informes, creación y modificación de las variables del informe
+      -
+            -
+
+*lenguaje de Power BI = DAX*
