@@ -33,14 +33,17 @@ carrera especialista en power BI
   
   
   Segundo Curso "Curso de Power BI: Preparación de los datos"
+  
       Primer módulo: "Introducción"
-            -
+            
             
             Explicación de que son los DataSet, ejemplos
             
         
       Segundo módulo: "Conectarse a Datos de Origen"
       
+            Tipos de datos válidos y formas de añadir los datos.
+            
             -ImportQuery: Extrae la información de una DataBase y la almacena dentro de Power BI con una limitación de 1 GB, 
             permite la manipulación de los datos y puede actualizar la información 8 veces al día.
       
