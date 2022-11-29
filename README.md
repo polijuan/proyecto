@@ -37,7 +37,7 @@ carrera especialista en power BI
       Primer módulo: "Introducción"
             
             
-            Explicación de que son los DataSet, ejemplos
+            Explicación de los DataSource y sus tipos.
             
         
       Segundo módulo: "Conectarse a Datos de Origen"
@@ -51,10 +51,25 @@ carrera especialista en power BI
             aunque limita la versatilidad de manejo.
             
             
+      Tercer módulo: "Preparación de Datos"
+      
+      
+            -Como optimizar la carga de datos
+            -Ejemplos de usos de Power Query Editor sobre los datos
+            -Diferencias entre Power BI  DataFlow y DataSet:
             
+                DataSet: Reunir el conjunto de datos y su información.
+                DataFlow: Transformación de datos.
       
       
       
+      
+      
+            
+            
+            
+            
+            
       
 
 *lenguaje de Power BI = DAX*
