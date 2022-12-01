@@ -33,7 +33,7 @@ carrera especialista en power BI
   
   
   Segundo Curso "Curso de Power BI: Preparación de los datos"
-  
+      
       Primer módulo: "Introducción"
             
             
@@ -62,10 +62,11 @@ carrera especialista en power BI
                 DataFlow: Transformación de datos.
       
       
+  Tercer curso "Curso de Power BI intermedio"
+  
+      Primer módulo: "Introducción"
       
-      
-      
-            
+            Creación de parametros, 
             
             
             
