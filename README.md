@@ -25,7 +25,7 @@ carrera especialista en power BI
       Cuarto módulo: "Modelado de datos"
         
             Descripción del concepto de modelado de datos, creación de columnas y medidas, y sus diferencias.
-            Añadir las relaciones a las tablas .
+            Añadir las relaciones a las tablas.
             
       Quinto módulo: "Creación de informes y paneles"
 
@@ -66,7 +66,12 @@ carrera especialista en power BI
   
       Primer módulo: "Introducción"
       
-            Creación de parametros, 
+            Creación de parametros para tener una mejor organización del origen de los archivos.
+            Creación de marcadores para ver diferentes datos dependiendo de diferentes vistas.
+            Como sincronizar filtros en diferentes páginas.
+            
+            
+      Segundo módulo: "Aplicar seguridad a un informe"
             
             
             
