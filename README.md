@@ -73,9 +73,21 @@ carrera especialista en power BI
             
       Segundo módulo: "Aplicar seguridad a un informe"
             
+            Como filtrar y ocultar datos.
+            Creación dinámica y estática de roles para limitar la información visible.
             
-            
-            
+      Tercer módulo: "Construcción de métricas con DAX"
       
+            Funciones de DAX para crear diferentes medidas.
+            
+            
+            
+            
+            
+      Cuarto módulo: "Servicio Power BI"
+            
+            
+            
+            
 
 *lenguaje de Power BI = DAX*
