@@ -147,12 +147,13 @@ carrera especialista en power BI
             
       Segundo módulo: "Creación de cálculos DAX"
             
-            Diferentes formas de añadir información relevante mediante DAX.
+            Diferentes formas de añadir información relevante mediante DAX como columnas y medidas.
+            Función CALCULATE es una función que modifica una expresión con varios filtros.
             
             
       Tercer módulo: "Creación de Medidas con DAX"
             
-            
+            Funciones con funcionalidad para crear datos a partir de otros valores. Tiempo, lógicas y condicionales, de texto y la función Related
             
             
 
