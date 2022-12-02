@@ -86,6 +86,60 @@ carrera especialista en power BI
             
       Cuarto módulo: "Servicio Power BI"
             
+            Explicación del servicio Power BI web, uso de Gateway, programación de actializaciones, 
+            compartir y analizar datos en Excel, crear paneles para ver datos aislados de forma mas 
+            cómoda y creación de roles de seguridad.
+            
+            
+      Quinto módulo: "Dataflows"
+            
+            Breve explicación del Codigo M, y como funciona por debajo en Power BI Desktop.
+            
+            
+            
+  Cuarto curso "Power BI Avanzado"
+            
+      Primer módulo: "Orígenes avanzados"
+            
+            Como reusar las conexiones a bases de datos u origenes de datos para no tener que conectarte directamente y 
+            explicación de QueryFolding y como funciona la consulta dentro de Power BI.
+            
+      Segundo módulo: "Diseño avanzado de modelo tubular con Power Query"
+            
+            
+            Explicación de como funciona el Editor avanzado de Power Query Editor y de algunas funciones y
+            funcionalidad del lenguaje M.
+            Depuración de datos corruptos o incorrectos cargados.
+            Niveles de privacidad dentro de datos.
+            
+            
+      Tercer módulo: "Modelo tubular desde DAX"
+            
+            Tipos de modelo de bases de datos, único, estrella y copo de nieve.
+            
+            
+      Cuarto módulo: "Escenarios de modelado"
+            
+            Modificación de medidas trabajando con tipo Date de forma dinámica y estática.
+            Como trabajar y ventajas de tener varios calendarios en el mismo modelo.
+            
+            
+  Quinto curso "Modelado de datos"
+            
+            
+      Primer módulo: "Introducción"
+            
+            Explicación de los modelos relacionales, cardinalidad, direccion filtro
+            
+            
+      Segundo módulo: "Creación y optimización de Modelos de datos"
+            
+            
+            
+            
+      Tercer módulo: "Exploración y comprobación de datos"
+            
+            
             
             
             
