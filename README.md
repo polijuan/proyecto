@@ -149,11 +149,13 @@ carrera especialista en power BI
             
             Diferentes formas de añadir información relevante mediante DAX como columnas y medidas.
             Función CALCULATE es una función que modifica una expresión con varios filtros.
+            Funciones con funcionalidad para crear datos a partir de otros valores. Tiempo, lógicas y condicionales, de texto y la función Related.
             
             
       Tercer módulo: "Creación de Medidas con DAX"
             
-            Funciones con funcionalidad para crear datos a partir de otros valores. Tiempo, lógicas y condicionales, de texto y la función Related
+            Funciones de estadistica y matemáticas, Count, Sumx, rankx, switch.
+            Funciones de time intelligence y funciones de variación.
             
             
 
