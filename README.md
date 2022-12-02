@@ -126,19 +126,31 @@ carrera especialista en power BI
             
   Quinto curso "Modelado de datos"
             
-            
       Primer módulo: "Introducción"
             
-            Explicación de los modelos relacionales, cardinalidad, direccion filtro
+            Explicación de los modelos relacionales, cardinalidad, dirección filtro.
+            Diferencias entre columnas y medidas de las tablas.
             
             
       Segundo módulo: "Creación y optimización de Modelos de datos"
             
+            Optimización de los modelos: ocultación de columnas, ordenación de datos, optimización de los tipos de datos.
             
             
             
-      Tercer módulo: "Exploración y comprobación de datos"
+  Quinto curso "DAX en Power BI"
             
+      Primer módulo: "Introducción al DAX"
+            
+            Explicación de DAX, el lenguaje especifico de Microsoft para Power BI.
+            
+            
+      Segundo módulo: "Creación de cálculos DAX"
+            
+            Diferentes formas de añadir información relevante mediante DAX.
+            
+            
+      Tercer módulo: "Creación de Medidas con DAX"
             
             
             
