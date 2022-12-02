@@ -149,14 +149,44 @@ carrera especialista en power BI
             
             Diferentes formas de añadir información relevante mediante DAX como columnas y medidas.
             Función CALCULATE es una función que modifica una expresión con varios filtros.
-            Funciones con funcionalidad para crear datos a partir de otros valores. Tiempo, lógicas y condicionales, de texto y la función Related.
+            Funciones con funcionalidad para crear datos a partir de otros valores. 
+            Tiempo, lógicas y condicionales, de texto y la función Related.
             
             
       Tercer módulo: "Creación de Medidas con DAX"
             
-            Funciones de estadistica y matemáticas, Count, Sumx, rankx, switch.
+            Funciones de estadistica y matemáticas, Count, Sumx y rankx.
             Funciones de time intelligence y funciones de variación.
+            Funciones All y filter
             
             
-
-*lenguaje de Power BI = DAX*
+  Quinto curso "DAX en Power BI"
+            
+      Primer módulo: "Trucos iniciales"
+            
+            Explicación de los diferentes temas, y como crear uno personalizado.
+            Editar como interactuan los diferentes objetos, los filtros y las segmentaciones.
+            Añadir información a la leyenda cuando se mantiene el raton encima.
+            Creación y gestión de tooltips.
+            Creación y gestión de jerarquiasy grupos.
+            Creación de una portada para gestionar el proyecto.
+            
+            
+      Segundo módulo: "Controles"
+            
+            Manejo de botones para moverse por las diferentes páginas usando una tabla como medio. 
+            Creación de tooltips animados con PlayAxis, mapas con gráficos de sectores, 
+            infografías con Infographic Designer y mapas coropléticos.
+            
+            
+      Tercer módulo: "Marcadores"
+            
+            Mediante vistas, creación de una presentación con diferentes datos.
+            
+      Cuarto módulo: "DAX"
+            
+            Uso de DAX para modificar formatos, y añadir símbolos.
+            
+      Quinto módulo: "Varios"
+            
+          Forma de cambiar el origen de los datos para crear un mismo informe con diferentes datos.
